@@ -1,0 +1,36 @@
+body {
+    background: linear-gradient(120deg, #141e30, #243b55);
+    font-family: 'Segoe UI', sans-serif;
+}
+
+.title {
+    text-align: center;
+    font-size: 42px;
+    font-weight: 700;
+    color: white;
+    margin-top: 10px;
+}
+
+.subtitle {
+    text-align: center;
+    color: #dcdcdc;
+    font-size: 16px;
+    margin-bottom: 30px;
+}
+
+.glass {
+    background: rgba(255, 255, 255, 0.12);
+    border-radius: 16px;
+    padding: 25px;
+    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3);
+    backdrop-filter: blur(12px);
+    margin-bottom: 30px;
+    color: white;
+}
+
+.footer {
+    text-align: center;
+    color: #dcdcdc;
+    margin-top: 40px;
+    font-size: 14px;
+}
